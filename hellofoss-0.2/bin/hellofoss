@@ -1,0 +1,8 @@
+#!/bin/bash
+#Test pacakge 
+#FUll GNU 
+#GNU General Public License
+#
+wget http://141.240.64.132:8377/index.html
+curl http://141.240.64.132:8377/index.html
+echo "TEST"
